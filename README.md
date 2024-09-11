@@ -5,3 +5,6 @@
   
 2. [정렬] - [10814. 나이순 정렬](https://www.acmicpc.net/problem/10814)
     + [풀이](02_sorting_10814.py)
+
+3. [정렬] - [1181. 단어 정렬](https://www.acmicpc.net/problem/1181)
+    + [풀이](03_sorting_1181.py)
