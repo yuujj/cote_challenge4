@@ -8,3 +8,6 @@
 
 3. [정렬] - [1181. 단어 정렬](https://www.acmicpc.net/problem/1181)
     + [풀이](03_sorting_1181.py)
+
+4. [정렬] - [5635. 생일](https://www.acmicpc.net/problem/5635)
+    + [풀이](04_sorting_5635.py)
