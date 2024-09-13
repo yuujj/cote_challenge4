@@ -11,3 +11,6 @@
 
 4. [정렬] - [5635. 생일](https://www.acmicpc.net/problem/5635)
     + [풀이](04_sorting_5635.py)
+
+5. [구현] - [25305. 커트라인](https://www.acmicpc.net/problem/25305)
+    + [풀이](05_implementation_25305.py)
