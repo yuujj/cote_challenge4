@@ -14,3 +14,6 @@
 
 5. [구현] - [25305. 커트라인](https://www.acmicpc.net/problem/25305)
     + [풀이](05_implementation_25305.py)
+
+6. [구현] - [2947. 나무조각](https://www.acmicpc.net/problem/2947)
+    + [풀이](06_implementation_2947.py)
