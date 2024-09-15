@@ -17,3 +17,6 @@
 
 6. [구현] - [2947. 나무조각](https://www.acmicpc.net/problem/2947)
     + [풀이](06_implementation_2947.py)
+
+7. [구현] - [7568. 덩치](https://www.acmicpc.net/problem/7568)
+    + [풀이](07_implementation_7568.py)
