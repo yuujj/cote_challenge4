@@ -20,3 +20,6 @@
 
 7. [구현] - [7568. 덩치](https://www.acmicpc.net/problem/7568)
     + [풀이](07_implementation_7568.py)
+
+8. [구현] - [2578. 빙고](https://www.acmicpc.net/problem/2578)
+    + [풀이](08_implementation_2578.py)
