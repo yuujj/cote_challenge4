@@ -23,3 +23,6 @@
 
 8. [구현] - [2578. 빙고](https://www.acmicpc.net/problem/2578)
     + [풀이](08_implementation_2578.py)
+
+9. [DP] - [2748. 피보나치 수 2](https://www.acmicpc.net/problem/2748)
+    + [풀이](09_dp_2748.py)
