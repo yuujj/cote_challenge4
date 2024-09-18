@@ -26,3 +26,6 @@
 
 9. [DP] - [2748. 피보나치 수 2](https://www.acmicpc.net/problem/2748)
     + [풀이](09_dp_2748.py)
+
+10. [DP] - [2775. 부녀회장이 될테야](https://www.acmicpc.net/problem/2775)
+    + [풀이](10_dp_2775.py)
