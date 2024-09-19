@@ -32,3 +32,6 @@
 
 11. [DP] - [1010. 다리 놓기](https://www.acmicpc.net/problem/1010)
     + [풀이](11_dp_1010.py)
+
+12. [DP] - [1463. 1로 만들기](https://www.acmicpc.net/problem/1463)
+    + [풀이](12_dp_1463.py)
