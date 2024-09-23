@@ -35,3 +35,6 @@
 
 12. [DP] - [1463. 1로 만들기](https://www.acmicpc.net/problem/1463)
     + [풀이](12_dp_1463.py)
+
+13. [그래프] - [10451. 순열 사이클](https://www.acmicpc.net/problem/10451)
+    + [풀이](13_graph_10451.py)
