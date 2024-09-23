@@ -38,3 +38,6 @@
 
 13. [그래프] - [10451. 순열 사이클](https://www.acmicpc.net/problem/10451)
     + [풀이](13_graph_10451.py)
+
+14. [그래프] - [17204. 죽음의 게임](https://www.acmicpc.net/problem/17204)
+    + [풀이](14_graph_17204.py)
