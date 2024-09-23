@@ -41,3 +41,6 @@
 
 14. [그래프] - [17204. 죽음의 게임](https://www.acmicpc.net/problem/17204)
     + [풀이](14_graph_17204.py)
+
+15. [그래프] - [11724. 연결 요소의 개수](https://www.acmicpc.net/problem/11724)
+    + [풀이](15_graph_11724.py)
