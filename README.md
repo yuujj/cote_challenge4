@@ -44,3 +44,6 @@
 
 15. [그래프] - [11724. 연결 요소의 개수](https://www.acmicpc.net/problem/11724)
     + [풀이](15_graph_11724.py)
+
+16. [그래프] - [2644. 촌수계산](https://www.acmicpc.net/problem/2644)
+    + [풀이](16_graph_2644.py)
