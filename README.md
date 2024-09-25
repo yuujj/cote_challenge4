@@ -47,3 +47,7 @@
 
 16. [그래프] - [2644. 촌수계산](https://www.acmicpc.net/problem/2644)
     + [풀이](16_graph_2644.py)
+
+17. [그래프] - [2204. 도비의 난독증 테스트](https://www.acmicpc.net/problem/2204)
+    + [풀이](17_sorting_2204.py)
+
