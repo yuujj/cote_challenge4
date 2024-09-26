@@ -54,3 +54,5 @@
 18. [그래프] - [5567. 결혼식](https://www.acmicpc.net/problem/5567)
     + [풀이](18_graph_5567.py)
 
+19. [구현] - [2303. 숫자 게임](https://www.acmicpc.net/problem/2303)
+    + [풀이](19_implementation_2303.py)
