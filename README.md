@@ -56,3 +56,6 @@
 
 19. [구현] - [2303. 숫자 게임](https://www.acmicpc.net/problem/2303)
     + [풀이](19_implementation_2303.py)
+
+20. [DP] - [2193. 이친수](https://www.acmicpc.net/problem/2193)
+    + [풀이](20_dp_2193.py)
