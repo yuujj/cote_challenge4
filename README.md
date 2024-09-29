@@ -59,3 +59,6 @@
 
 20. [DP] - [2193. 이친수](https://www.acmicpc.net/problem/2193)
     + [풀이](20_dp_2193.py)
+
+21. [구현] - [11866. 요세푸스 문제 0](https://www.acmicpc.net/problem/11866)
+    + [풀이](21_implementation_11866.py)
